@@ -1,0 +1,151 @@
+{
+    "version": "2.0.13062025_114540",
+    "android": {
+        "E1.json": {
+            "filename": "E1.json",
+            "hash": "d881559f7e128a08fc36674bcda38cf5911f29f8dd82db35ffd418cf1daed6b2",
+            "size": 1018,
+            "url": "192.168.2.200/HLVR/E1.json"
+        },
+        "E10.json": {
+            "filename": "E10.json",
+            "hash": "70522fc0a5abd4e8b46102749b21651f4ce93acc8d148afd23b5afffab05ed50",
+            "size": 12244,
+            "url": "192.168.2.200/HLVR/E10.json"
+        },
+        "E2.json": {
+            "filename": "E2.json",
+            "hash": "3f0dc6326938a85a3d03c9af68ad3af9eb7830be626c878f72ca9ebc23c6c5b8",
+            "size": 55230,
+            "url": "192.168.2.200/HLVR/E2.json"
+        },
+        "E3.json": {
+            "filename": "E3.json",
+            "hash": "5b785a4f14aab5d36bae289768e02337b4991db8dc1997775d54a15c343e227b",
+            "size": 17954,
+            "url": "192.168.2.200/HLVR/E3.json"
+        },
+        "E4.json": {
+            "filename": "E4.json",
+            "hash": "e97ba31a8732c301f446a67939abc36976f9ab6dbd8a303743b728ff2556abd0",
+            "size": 34756,
+            "url": "192.168.2.200/HLVR/E4.json"
+        },
+        "E5.json": {
+            "filename": "E5.json",
+            "hash": "2adf9a93405c899fdb5246c554737bccb87383a6a97646c1c1d81b39b1f9664c",
+            "size": 29104,
+            "url": "192.168.2.200/HLVR/E5.json"
+        },
+        "E6a.json": {
+            "filename": "E6a.json",
+            "hash": "1c556ab46895ab73ca3bdbb79402bc75a690408adb5527fad8328f1a99ffaeaa",
+            "size": 8573,
+            "url": "192.168.2.200/HLVR/E6a.json"
+        },
+        "E6b.json": {
+            "filename": "E6b.json",
+            "hash": "4fc9e6c6045eed16e363e82042a7d0adb2fc043e3cc83dcf71b4ddda402b7ff2",
+            "size": 5750,
+            "url": "192.168.2.200/HLVR/E6b.json"
+        },
+        "E6c.json": {
+            "filename": "E6c.json",
+            "hash": "7604301c7fbd5ae9a70477f68a3c43a3405c442f95a8c51a46d77eed85843b37",
+            "size": 10269,
+            "url": "192.168.2.200/HLVR/E6c.json"
+        },
+        "E7.json": {
+            "filename": "E7.json",
+            "hash": "e8d5235ce6ef3e767550e2430a3b0e485bd91c62cfe10f42953553b61b2c22c6",
+            "size": 67346,
+            "url": "192.168.2.200/HLVR/E7.json"
+        },
+        "E8.json": {
+            "filename": "E8.json",
+            "hash": "bb115772d530e3d21ff32e82e7a846f005150dc7d6751f3714c31da0acaed15e",
+            "size": 11159,
+            "url": "192.168.2.200/HLVR/E8.json"
+        },
+        "E9.json": {
+            "filename": "E9.json",
+            "hash": "b2e0cd58a3a3352fc661bf47dc27bb606d21c25e980d96f0839bb1fb2f953744",
+            "size": 34398,
+            "url": "192.168.2.200/HLVR/E9.json"
+        }
+    },
+    "windows": {
+        "E1.json": {
+            "filename": "E1.json",
+            "hash": "d881559f7e128a08fc36674bcda38cf5911f29f8dd82db35ffd418cf1daed6b2",
+            "size": 1018,
+            "url": "192.168.2.200/HLVR/E1.json"
+        },
+        "E10.json": {
+            "filename": "E10.json",
+            "hash": "70522fc0a5abd4e8b46102749b21651f4ce93acc8d148afd23b5afffab05ed50",
+            "size": 12244,
+            "url": "192.168.2.200/HLVR/E10.json"
+        },
+        "E2.json": {
+            "filename": "E2.json",
+            "hash": "3f0dc6326938a85a3d03c9af68ad3af9eb7830be626c878f72ca9ebc23c6c5b8",
+            "size": 55230,
+            "url": "192.168.2.200/HLVR/E2.json"
+        },
+        "E3.json": {
+            "filename": "E3.json",
+            "hash": "5b785a4f14aab5d36bae289768e02337b4991db8dc1997775d54a15c343e227b",
+            "size": 17954,
+            "url": "192.168.2.200/HLVR/E3.json"
+        },
+        "E4.json": {
+            "filename": "E4.json",
+            "hash": "e97ba31a8732c301f446a67939abc36976f9ab6dbd8a303743b728ff2556abd0",
+            "size": 34756,
+            "url": "192.168.2.200/HLVR/E4.json"
+        },
+        "E5.json": {
+            "filename": "E5.json",
+            "hash": "2adf9a93405c899fdb5246c554737bccb87383a6a97646c1c1d81b39b1f9664c",
+            "size": 29104,
+            "url": "192.168.2.200/HLVR/E5.json"
+        },
+        "E6a.json": {
+            "filename": "E6a.json",
+            "hash": "1c556ab46895ab73ca3bdbb79402bc75a690408adb5527fad8328f1a99ffaeaa",
+            "size": 8573,
+            "url": "192.168.2.200/HLVR/E6a.json"
+        },
+        "E6b.json": {
+            "filename": "E6b.json",
+            "hash": "4fc9e6c6045eed16e363e82042a7d0adb2fc043e3cc83dcf71b4ddda402b7ff2",
+            "size": 5750,
+            "url": "192.168.2.200/HLVR/E6b.json"
+        },
+        "E6c.json": {
+            "filename": "E6c.json",
+            "hash": "7604301c7fbd5ae9a70477f68a3c43a3405c442f95a8c51a46d77eed85843b37",
+            "size": 10269,
+            "url": "192.168.2.200/HLVR/E6c.json"
+        },
+        "E7.json": {
+            "filename": "E7.json",
+            "hash": "e8d5235ce6ef3e767550e2430a3b0e485bd91c62cfe10f42953553b61b2c22c6",
+            "size": 67346,
+            "url": "192.168.2.200/HLVR/E7.json"
+        },
+        "E8.json": {
+            "filename": "E8.json",
+            "hash": "bb115772d530e3d21ff32e82e7a846f005150dc7d6751f3714c31da0acaed15e",
+            "size": 11159,
+            "url": "192.168.2.200/HLVR/E8.json"
+        },
+        "E9.json": {
+            "filename": "E9.json",
+            "hash": "b2e0cd58a3a3352fc661bf47dc27bb606d21c25e980d96f0839bb1fb2f953744",
+            "size": 34398,
+            "url": "192.168.2.200/HLVR/E9.json"
+        }
+    }
+}
