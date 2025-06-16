@@ -1,0 +1,265 @@
+{
+    "version": "2.0.16062025_130733",
+    "android": {
+        "HomeLabVR-Android_ASTC.pak": {
+            "filename": "HomeLabVR-Android_ASTC.pak",
+            "hash": "4b0ab29d246b2aa39ac69529b84daa41d52ad864c31181ac344a4d33f80853db",
+            "size": 94468894,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/HomeLabVR-Android_ASTC.pak"
+        },
+        "E1.json": {
+            "filename": "E1.json",
+            "hash": "d881559f7e128a08fc36674bcda38cf5911f29f8dd82db35ffd418cf1daed6b2",
+            "size": 1018,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E1.json"
+        },
+        "E10.json": {
+            "filename": "E10.json",
+            "hash": "70522fc0a5abd4e8b46102749b21651f4ce93acc8d148afd23b5afffab05ed50",
+            "size": 12244,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E10.json"
+        },
+        "E10b.json": {
+            "filename": "E10b.json",
+            "hash": "99c343f9d603a2dea6eb9012447d3282f8a81ac651947387ae6f9aa483ed393d",
+            "size": 14174,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E10b.json"
+        },
+        "E2.json": {
+            "filename": "E2.json",
+            "hash": "e5ee2b866bbfbc5a179e71ea8c20265f1dea30bd074b3acc7f8daea7e6c420aa",
+            "size": 55230,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E2.json"
+        },
+        "E3.json": {
+            "filename": "E3.json",
+            "hash": "dcf6c5473b8766c0822f372039f04d549fe92bfa880e714b27b1f001d124ccd7",
+            "size": 17954,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E3.json"
+        },
+        "E4.json": {
+            "filename": "E4.json",
+            "hash": "66d111ee6598d13e0091cd42693df174a0d65e8f6bd3b605652837adda1e5969",
+            "size": 34756,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E4.json"
+        },
+        "E5.json": {
+            "filename": "E5.json",
+            "hash": "7ed62aa22c0162ae029eb009945ac85f923dd91e341a727c6950009da764305e",
+            "size": 29104,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E5.json"
+        },
+        "E6a.json": {
+            "filename": "E6a.json",
+            "hash": "db8031848d7ee855edbd94354ea77a117ce73f3fa483ef10bfad7bd00abd5c11",
+            "size": 8573,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6a.json"
+        },
+        "E6b.json": {
+            "filename": "E6b.json",
+            "hash": "e02050e46dc56fa9b03206b0b342e6b3c853794e5a7af5a7403e67d33cf9ac0a",
+            "size": 5750,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6b.json"
+        },
+        "E6c.json": {
+            "filename": "E6c.json",
+            "hash": "0c4a24a5f4a8b47455c579e1b6c7af3e18c11a537ebfe5bbbda84709f0fc2515",
+            "size": 10269,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6c.json"
+        },
+        "E7.json": {
+            "filename": "E7.json",
+            "hash": "a4b25a0b07aaf0e380f49ef65957f036cdfce1da391f763b2156f570750ead85",
+            "size": 67346,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E7.json"
+        },
+        "E8.json": {
+            "filename": "E8.json",
+            "hash": "1b38e1bed07ba3482cfc3f8ccaf41bbc8ef7cb75c5735731837a00457baa8a62",
+            "size": 11159,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E8.json"
+        },
+        "E9.json": {
+            "filename": "E9.json",
+            "hash": "b3a7d3acd4a2766c79aa78728e2de10dd899e4d910616bfc4b8ed375aae75d81",
+            "size": 34398,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E9.json"
+        }
+    },
+    "windows": {
+        "pakchunk1-Windows.pak": {
+            "filename": "pakchunk1-Windows.pak",
+            "hash": "1b8c04fbe3c38e1c05d2b1a9936bf41c1fde036224abad854d9083b944220f1c",
+            "size": 2631814,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk1-Windows.pak"
+        },
+        "pakchunk101-Windows.pak": {
+            "filename": "pakchunk101-Windows.pak",
+            "hash": "8950ec93b78db4fc18ca0910509cb7519207d66bcd851c94f13976f5aeb3b104",
+            "size": 14276245,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk101-Windows.pak"
+        },
+        "pakchunk102-Windows.pak": {
+            "filename": "pakchunk102-Windows.pak",
+            "hash": "cbd4c74c68b20ee710255c3aea76f9da5c0fdc7e21073414aceb08f43f607102",
+            "size": 19656312,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk102-Windows.pak"
+        },
+        "pakchunk103-Windows.pak": {
+            "filename": "pakchunk103-Windows.pak",
+            "hash": "aba40ba764b294fb4815e926314083ad29036479da3c91c55947b3572f9d630c",
+            "size": 20453728,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk103-Windows.pak"
+        },
+        "pakchunk104-Windows.pak": {
+            "filename": "pakchunk104-Windows.pak",
+            "hash": "4fa7780715fc8faa5da391ff43a9dbb7aaf1b062a237d151125d31025c98d976",
+            "size": 15487422,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk104-Windows.pak"
+        },
+        "pakchunk105-Windows.pak": {
+            "filename": "pakchunk105-Windows.pak",
+            "hash": "7976b3e3bf4f9eda0af3ebc659e0cddd35e611162845a2cfd57f9fdbae62678d",
+            "size": 56750678,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk105-Windows.pak"
+        },
+        "pakchunk106-Windows.pak": {
+            "filename": "pakchunk106-Windows.pak",
+            "hash": "b79a0d459cf93a34ba9d2f46023d284224a101198da7aacd3101d7cd987b243f",
+            "size": 11452212,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk106-Windows.pak"
+        },
+        "pakchunk107-Windows.pak": {
+            "filename": "pakchunk107-Windows.pak",
+            "hash": "a8512e5c0c56d7eaa8dd657fa8afc2bfaebee85a7ee778c6d61bac448c325bef",
+            "size": 16405285,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk107-Windows.pak"
+        },
+        "pakchunk108-Windows.pak": {
+            "filename": "pakchunk108-Windows.pak",
+            "hash": "f1d4dedb4c799f0eea23e3a502b22018d3e8dfabe1b89e7e8215e745c8bafd19",
+            "size": 59602139,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk108-Windows.pak"
+        },
+        "pakchunk109-Windows.pak": {
+            "filename": "pakchunk109-Windows.pak",
+            "hash": "f33f71d1d09f97586885074cd757e1293982e6607e510221eca90cd16e31bdde",
+            "size": 26727761,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk109-Windows.pak"
+        },
+        "pakchunk110-Windows.pak": {
+            "filename": "pakchunk110-Windows.pak",
+            "hash": "9c391267971655b504a30cd8c5a5244bfaac0d6f48a60226317a1e55bef9fbf7",
+            "size": 33405691,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk110-Windows.pak"
+        },
+        "pakchunk2-Windows.pak": {
+            "filename": "pakchunk2-Windows.pak",
+            "hash": "c9dabd7985781bbc768918c50fa0a6ecc00874d3cccd62133591dbe4aa067313",
+            "size": 92909963,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk2-Windows.pak"
+        },
+        "pakchunk201-Windows.pak": {
+            "filename": "pakchunk201-Windows.pak",
+            "hash": "73b1fd59df4f9dc0e9e69d775773a5b49731dc05053d3d5355046c8195363b68",
+            "size": 12700,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk201-Windows.pak"
+        },
+        "pakchunk3-Windows.pak": {
+            "filename": "pakchunk3-Windows.pak",
+            "hash": "b3e87bf6b80f0bc23caab9a67df5baf7d6490d10e8369c904199d688b4fc4a42",
+            "size": 1623833,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk3-Windows.pak"
+        },
+        "pakchunk4-Windows.pak": {
+            "filename": "pakchunk4-Windows.pak",
+            "hash": "ea65b9a79db3b9184859d18c83a6648fd3da2f17d1aba773d66dbd48cd638103",
+            "size": 15043947,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk4-Windows.pak"
+        },
+        "pakchunk5-Windows.pak": {
+            "filename": "pakchunk5-Windows.pak",
+            "hash": "1c1b47684f58f3e76861ca5682dda4f777851eb97abc8c619836683caa9bc762",
+            "size": 1293762,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk5-Windows.pak"
+        },
+        "E1.json": {
+            "filename": "E1.json",
+            "hash": "d881559f7e128a08fc36674bcda38cf5911f29f8dd82db35ffd418cf1daed6b2",
+            "size": 1018,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E1.json"
+        },
+        "E10.json": {
+            "filename": "E10.json",
+            "hash": "70522fc0a5abd4e8b46102749b21651f4ce93acc8d148afd23b5afffab05ed50",
+            "size": 12244,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E10.json"
+        },
+        "E10b.json": {
+            "filename": "E10b.json",
+            "hash": "99c343f9d603a2dea6eb9012447d3282f8a81ac651947387ae6f9aa483ed393d",
+            "size": 14174,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E10b.json"
+        },
+        "E2.json": {
+            "filename": "E2.json",
+            "hash": "e5ee2b866bbfbc5a179e71ea8c20265f1dea30bd074b3acc7f8daea7e6c420aa",
+            "size": 55230,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E2.json"
+        },
+        "E3.json": {
+            "filename": "E3.json",
+            "hash": "dcf6c5473b8766c0822f372039f04d549fe92bfa880e714b27b1f001d124ccd7",
+            "size": 17954,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E3.json"
+        },
+        "E4.json": {
+            "filename": "E4.json",
+            "hash": "66d111ee6598d13e0091cd42693df174a0d65e8f6bd3b605652837adda1e5969",
+            "size": 34756,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E4.json"
+        },
+        "E5.json": {
+            "filename": "E5.json",
+            "hash": "7ed62aa22c0162ae029eb009945ac85f923dd91e341a727c6950009da764305e",
+            "size": 29104,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E5.json"
+        },
+        "E6a.json": {
+            "filename": "E6a.json",
+            "hash": "db8031848d7ee855edbd94354ea77a117ce73f3fa483ef10bfad7bd00abd5c11",
+            "size": 8573,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6a.json"
+        },
+        "E6b.json": {
+            "filename": "E6b.json",
+            "hash": "e02050e46dc56fa9b03206b0b342e6b3c853794e5a7af5a7403e67d33cf9ac0a",
+            "size": 5750,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6b.json"
+        },
+        "E6c.json": {
+            "filename": "E6c.json",
+            "hash": "0c4a24a5f4a8b47455c579e1b6c7af3e18c11a537ebfe5bbbda84709f0fc2515",
+            "size": 10269,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E6c.json"
+        },
+        "E7.json": {
+            "filename": "E7.json",
+            "hash": "a4b25a0b07aaf0e380f49ef65957f036cdfce1da391f763b2156f570750ead85",
+            "size": 67346,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E7.json"
+        },
+        "E8.json": {
+            "filename": "E8.json",
+            "hash": "1b38e1bed07ba3482cfc3f8ccaf41bbc8ef7cb75c5735731837a00457baa8a62",
+            "size": 11159,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E8.json"
+        },
+        "E9.json": {
+            "filename": "E9.json",
+            "hash": "b3a7d3acd4a2766c79aa78728e2de10dd899e4d910616bfc4b8ed375aae75d81",
+            "size": 34398,
+            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E9.json"
+        }
+    }
+}
