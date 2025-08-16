@@ -1,0 +1,15 @@
+{
+    "E1sub.json": {
+        "filename": "E1sub.json",
+        "hash": "0",
+        "size": 7228,
+        "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E1sub.json"
+    },
+    "E2sub.json": {
+        "filename": "E2sub.json",
+        "hash": "0",
+        "size": 5077,
+        "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/E2sub.json"
+    },
+    "version": "2.0.24062025_133146"
+}
