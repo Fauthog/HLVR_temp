@@ -267,12 +267,6 @@
             "size": 33405755,
             "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk110-Windows.pak"
         },
-        "pakchunk2-Windows.pak": {
-            "filename": "pakchunk2-Windows.pak",
-            "hash": "d8d534edd1b26fa0b26ad887240ea446dae09f611d4af1b50ebb0cbea86f2dd0",
-            "size": 92922702,
-            "url": "https://raw.githubusercontent.com/Fauthog/HLVR_temp/refs/heads/main/pakchunk2-Windows.pak"
-        },
         "pakchunk201-Windows.pak": {
             "filename": "pakchunk201-Windows.pak",
             "hash": "f557c7714d708383816e634160015ce4207ffaa637d4c3f823adbe582c9a95eb",
