@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e2a\u0e01\u0e31\u0e14\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19\u0e2b\u0e2d\u0e21\u0e23\u0e30\u0e40\u0e2b\u0e22",
       "end": 3180,
@@ -56,6 +56,68 @@
     },
     "10": {
       "content": "\u0e41\u0e25\u0e30\u0e17\u0e33\u0e01\u0e32\u0e23\u0e08\u0e14\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e04\u0e48\u0e32\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e44\u0e1b\u0e04\u0e33\u0e19\u0e27\u0e13\u0e2b\u0e32\u0e23\u0e49\u0e2d\u0e22\u0e25\u0e30\u0e1c\u0e25\u0e1c\u0e25\u0e34\u0e15\u0e02\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19\u0e2b\u0e2d\u0e21\u0e23\u0e30\u0e40\u0e2b\u0e22",
+      "end": 281760,
+      "index": 10,
+      "start": 275580
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Experiment on extracting essential oil from a fruit.",
+      "end": 3180,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Method of the experiment.",
+      "end": 4720,
+      "index": 2,
+      "start": 3180
+    },
+    "3": {
+      "content": "Take 60g of fresh orange peel and place it in a round-bottom flask.",
+      "end": 10720,
+      "index": 3,
+      "start": 4720
+    },
+    "4": {
+      "content": "Then add 350ml of water to the round-bottom flask.",
+      "end": 16780,
+      "index": 4,
+      "start": 11050
+    },
+    "5": {
+      "content": "Attach the round-bottom flask to a distillation apparatus for essential oil extraction.",
+      "end": 47800,
+      "index": 5,
+      "start": 42000
+    },
+    "6": {
+      "content": "Heat the mixture to 100 degrees Celsius.",
+      "end": 205000,
+      "index": 6,
+      "start": 202000
+    },
+    "7": {
+      "content": "Maintain this temperature for about 2-3 hours.",
+      "end": 209000,
+      "index": 7,
+      "start": 207000
+    },
+    "8": {
+      "content": "After the allotted time, collect the essential oil that has condensed in the storage flask.",
+      "end": 222760,
+      "index": 8,
+      "start": 215000
+    },
+    "9": {
+      "content": "Measure the volume of the extracted essential oil using a burette.",
+      "end": 274580,
+      "index": 9,
+      "start": 270000
+    },
+    "10": {
+      "content": "Record the measured value so that the yield percentage of the essential oil can be calculated.",
       "end": 281760,
       "index": 10,
       "start": 275580

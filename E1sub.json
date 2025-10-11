@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07 \u0e01\u0e32\u0e23\u0e2b\u0e32\u0e08\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e2a\u0e32\u0e23\u0e1a\u0e23\u0e34\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e4c\u0e41\u0e25\u0e30\u0e2a\u0e32\u0e23\u0e1c\u0e2a\u0e21",
       "end": 5000,
@@ -260,6 +260,283 @@
     },
     "44": {
       "content": "\u0e41\u0e25\u0e30\u0e17\u0e33\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e08\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e02\u0e2d\u0e07\u0e2a\u0e32\u0e23\u0e25\u0e30\u0e25\u0e32\u0e22\u0e42\u0e0b\u0e40\u0e14\u0e35\u0e22\u0e21\u0e04\u0e25\u0e2d\u0e44\u0e23\u0e14\u0e4c\u0e42\u0e14\u0e22\u0e08\u0e38\u0e14\u0e40\u0e14\u0e37\u0e2d\u0e14\u0e08\u0e30\u0e2a\u0e31\u0e07\u0e40\u0e01\u0e15\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01\u0e1f\u0e2d\u0e07\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e02\u0e36\u0e49\u0e19\u0e1a\u0e23\u0e34\u0e40\u0e27\u0e13\u0e1c\u0e34\u0e27\u0e02\u0e2d\u0e07\u0e40\u0e2b\u0e25\u0e27",
+      "end": 416700,
+      "index": 44,
+      "start": 408060
+    },
+    "45": {
+      "content": "-",
+      "end": 417980,
+      "index": 45,
+      "start": 416700
+    },
+    "46": {
+      "content": "-",
+      "end": 422500,
+      "index": 46,
+      "start": 420500
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Experiment - Determining the boiling point of ethanol and its mixtures",
+      "end": 5000,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Procedure: Transfer 5mL of the ethanol solution into a 5mL volumetric flask.",
+      "end": 19000,
+      "index": 2,
+      "start": 5000
+    },
+    "3": {
+      "content": "Then pour it into a test tube.",
+      "end": 23000,
+      "index": 3,
+      "start": 19000
+    },
+    "4": {
+      "content": "Attach the test tube to the apparatus set-up.",
+      "end": 27000,
+      "index": 4,
+      "start": 23000
+    },
+    "5": {
+      "content": "Ensure that the liquid level in the test tube is below the water surface in the beaker.",
+      "end": 32280,
+      "index": 5,
+      "start": 27000
+    },
+    "6": {
+      "content": "-",
+      "end": 59320,
+      "index": 6,
+      "start": 57000
+    },
+    "7": {
+      "content": "Insert a thermometer into the test tube",
+      "end": 63480,
+      "index": 7,
+      "start": 60320
+    },
+    "8": {
+      "content": "to measure the temperature inside the tube while the change occurs.",
+      "end": 67440,
+      "index": 8,
+      "start": 63480
+    },
+    "9": {
+      "content": "Observe the changes that occur and record the temperature of the ethanol every minute.",
+      "end": 86000,
+      "index": 9,
+      "start": 82000
+    },
+    "10": {
+      "content": "Record the boiling point of the ethanol.",
+      "end": 90700,
+      "index": 10,
+      "start": 87000
+    },
+    "11": {
+      "content": "The boiling point is identified by bubbles forming at the liquid surface.",
+      "end": 96220,
+      "index": 11,
+      "start": 90700
+    },
+    "12": {
+      "content": "Example 2: Transfer 5mL of the water solution into a 5mL volumetric flask.",
+      "end": 104380,
+      "index": 12,
+      "start": 96220
+    },
+    "13": {
+      "content": "Then pour it into a test tube.",
+      "end": 114760,
+      "index": 13,
+      "start": 104380
+    },
+    "14": {
+      "content": "Attach the test tube to the apparatus set-up.",
+      "end": 123020,
+      "index": 14,
+      "start": 117000
+    },
+    "15": {
+      "content": "Ensure that the liquid level in the test tube is above the water surface in the beaker.",
+      "end": 128600,
+      "index": 15,
+      "start": 123020
+    },
+    "16": {
+      "content": "-",
+      "end": 145560,
+      "index": 16,
+      "start": 144300
+    },
+    "17": {
+      "content": "-",
+      "end": 146300,
+      "index": 17,
+      "start": 145620
+    },
+    "18": {
+      "content": "-",
+      "end": 146980,
+      "index": 18,
+      "start": 146340
+    },
+    "19": {
+      "content": "Insert a thermometer into the test tube.",
+      "end": 149420,
+      "index": 19,
+      "start": 146980
+    },
+    "20": {
+      "content": "Observe the changes that occur.",
+      "end": 153280,
+      "index": 20,
+      "start": 149800
+    },
+    "21": {
+      "content": "Record the temperature of water every minute.",
+      "end": 167780,
+      "index": 21,
+      "start": 165700
+    },
+    "22": {
+      "content": "Record the boiling point of water.",
+      "end": 170920,
+      "index": 22,
+      "start": 167780
+    },
+    "23": {
+      "content": "The boiling point is identified by bubbles forming at the liquid surface.",
+      "end": 176160,
+      "index": 23,
+      "start": 172960
+    },
+    "24": {
+      "content": "Dissolve 1g of sodium chloride in 5mL of distilled water and transfer into a 5mL volumetric flask; pour it into a test tube and attach to the apparatus",
+      "end": 180980,
+      "index": 24,
+      "start": 176160
+    },
+    "25": {
+      "content": "Ensure that the liquid level in the test tube is above the water surface in the beaker.",
+      "end": 222180,
+      "index": 25,
+      "start": 206160
+    },
+    "26": {
+      "content": "Insert a thermometer into the test tube to measure temperature while changes occur.",
+      "end": 241160,
+      "index": 26,
+      "start": 236160
+    },
+    "27": {
+      "content": "Observe the changes that occur.",
+      "end": 264160,
+      "index": 27,
+      "start": 261160
+    },
+    "28": {
+      "content": "Record the temperature of the sodium chloride solution every minute.",
+      "end": 266160,
+      "index": 28,
+      "start": 265160
+    },
+    "29": {
+      "content": "Record the boiling point of the sodium chloride solution.",
+      "end": 268160,
+      "index": 29,
+      "start": 266160
+    },
+    "30": {
+      "content": "It indicates that appropriate sources of authority must be used to ensure operations are carried out in accordance with the criteria.",
+      "end": 287160,
+      "index": 30,
+      "start": 285160
+    },
+    "31": {
+      "content": "The importance of allocating resources efficiently - one detail.",
+      "end": 292160,
+      "index": 31,
+      "start": 287160
+    },
+    "32": {
+      "content": "The importance of resource allocation for achieving the best results",
+      "end": 298160,
+      "index": 32,
+      "start": 292160
+    },
+    "33": {
+      "content": "Once those steps have been taken, you must verify that operations are carried out according to the specified standards",
+      "end": 302160,
+      "index": 33,
+      "start": 298160
+    },
+    "34": {
+      "content": "Four preliminary data sets were stored, two pieces each",
+      "end": 318160,
+      "index": 34,
+      "start": 315160
+    },
+    "35": {
+      "content": "“A system of five examples of correct data was used",
+      "end": 321160,
+      "index": 35,
+      "start": 318160
+    },
+    "36": {
+      "content": "We verified that it complied with the five stipulated examples",
+      "end": 324160,
+      "index": 36,
+      "start": 321160
+    },
+    "37": {
+      "content": "-",
+      "end": 342160,
+      "index": 37,
+      "start": 324160
+    },
+    "38": {
+      "content": "It explains that further verification and evaluation were performed.",
+      "end": 344160,
+      "index": 38,
+      "start": 342160
+    },
+    "39": {
+      "content": "-",
+      "end": 350160,
+      "index": 39,
+      "start": 344160
+    },
+    "40": {
+      "content": "Ensure that the liquid level in the test tube is above the water surface in the beaker.",
+      "end": 353340,
+      "index": 40,
+      "start": 350160
+    },
+    "41": {
+      "content": "Insert a thermometer into the test tube to measure temperature while changes occur.",
+      "index": 41,
+      "start": 355440
+    },
+    "42": {
+      "content": "Insert a thermometer into the test tube to measure temperature while changes occur.",
+      "end": 385780,
+      "index": 42,
+      "start": 360500
+    },
+    "43": {
+      "content": "Observe the changes that occur and record the temperature of the sodium chloride solution every minute.",
+      "end": 405760,
+      "index": 43,
+      "start": 390500
+    },
+    "44": {
+      "content": "Record the boiling point of the sodium chloride solution; it is identified by bubbles forming at the liquid surface.",
       "end": 416700,
       "index": 44,
       "start": 408060

@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e19\u0e33\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e17\u0e33\u0e1b\u0e0f\u0e34\u0e01\u0e34\u0e23\u0e34\u0e22\u0e32 \u0e40\u0e17\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e27\u0e22\u0e41\u0e22\u0e01\u0e2a\u0e32\u0e23",
       "end": 7500,
@@ -68,6 +68,80 @@
     },
     "12": {
       "content": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u0e2b\u0e22\u0e14 \u0e41\u0e2a\u0e14\u0e07\u0e27\u0e48\u0e32\u0e23\u0e30\u0e40\u0e2b\u0e22\u0e2d\u0e2d\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e25\u0e49\u0e27 \u0e41\u0e25\u0e30\u0e2a\u0e35\u0e02\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e21\u0e31\u0e19\u0e08\u0e30\u0e43\u0e2a\u0e02\u0e36\u0e49\u0e19",
+      "end": 409680,
+      "index": 12,
+      "start": 403760
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Transfer the water obtained from the reaction into a separating funnel.",
+      "end": 7500,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Then seal it until phase separation occurs between biodiesel and glycerol.",
+      "end": 13000,
+      "index": 2,
+      "start": 7500
+    },
+    "3": {
+      "content": "When the separation is complete, remove the lower layer of glycerol, leaving only the upper layer of biodiesel.",
+      "end": 57500,
+      "index": 3,
+      "start": 49000
+    },
+    "4": {
+      "content": "From there, wash the obtained biodiesel with hot water at 60-70 degrees Celsius.",
+      "end": 129000,
+      "index": 4,
+      "start": 122000
+    },
+    "5": {
+      "content": "To eliminate contaminants such as methanol or residual glycerol from the reaction.",
+      "end": 136000,
+      "index": 5,
+      "start": 129000
+    },
+    "6": {
+      "content": "Afterward, remove the bottom layer of water, leaving only the upper biodiesel layer",
+      "end": 143000,
+      "index": 6,
+      "start": 136000
+    },
+    "7": {
+      "content": "Repeat the washing about three times or until the wash water runs clear.",
+      "end": 149000,
+      "index": 7,
+      "start": 144000
+    },
+    "8": {
+      "content": "When the biodiesel has been fully washed, transfer it into a beaker",
+      "end": 341500,
+      "index": 8,
+      "start": 336330
+    },
+    "9": {
+      "content": "Pour the biodiesel into a round-bottom flask to evaporate water and methanol using a rotary evaporator.",
+      "end": 396000,
+      "index": 9,
+      "start": 386000
+    },
+    "10": {
+      "content": "The temperature is set to 85 degrees Celsius",
+      "end": 399640,
+      "index": 10,
+      "start": 396600
+    },
+    "11": {
+      "content": "During evaporation you can observe the vapor condensing in the round-bottom flask.",
+      "end": 403760,
+      "index": 11,
+      "start": 401640
+    },
+    "12": {
+      "content": "If no droplets appear, it means all has evaporated and the remaining liquid is clear.",
       "end": 409680,
       "index": 12,
       "start": 403760

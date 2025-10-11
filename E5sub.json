@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "2": {
       "content": "\u0e27\u0e34\u0e18\u0e35\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e19\u0e33\u0e19\u0e49\u0e33\u0e41\u0e02\u0e47\u0e07\u0e43\u0e2a\u0e48\u0e25\u0e07\u0e43\u0e19\u0e1a\u0e35\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c",
       "end": 7700,
@@ -254,6 +254,266 @@
     },
     "79": {
       "content": "\u0e15\u0e48\u0e2d\u0e21\u0e32\u0e04\u0e48\u0e2d\u0e22\u0e46 \u0e40\u0e1b\u0e34\u0e14\u0e1d\u0e32\u0e08\u0e32\u0e19\u0e40\u0e1e\u0e32\u0e30\u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e41\u0e25\u0e30\u0e40\u0e17\u0e41\u0e01\u0e4a\u0e2a\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e1a\u0e35\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e17\u0e33\u0e01\u0e32\u0e23\u0e14\u0e31\u0e1a\u0e44\u0e1f",
+      "end": 470000,
+      "index": 79,
+      "start": 460000
+    }
+  },
+  "en": {
+    "2": {
+      "content": "Method of the experiment: put ice into a beaker.",
+      "end": 7700,
+      "index": 2,
+      "start": 4040
+    },
+    "3": {
+      "content": "Then keep the beaker at room temperature",
+      "end": 11200,
+      "index": 3,
+      "start": 8700
+    },
+    "4": {
+      "content": "and observe the changes that occur",
+      "end": 15000,
+      "index": 4,
+      "start": 12200
+    },
+    "5": {
+      "content": "Next, pour water onto a hot stove to heat it.",
+      "end": 20920,
+      "index": 5,
+      "start": 17000
+    },
+    "6": {
+      "content": "Heating it to a temperature of 100 degrees Celsius.",
+      "end": 25240,
+      "index": 6,
+      "start": 20920
+    },
+    "7": {
+      "content": "And seal the beaker with a glass lid.",
+      "end": 38000,
+      "index": 7,
+      "start": 34000
+    },
+    "9": {
+      "content": "Method of experiment: dissolve 100ml of water in a beaker.",
+      "end": 66000,
+      "index": 9,
+      "start": 60000
+    },
+    "10": {
+      "content": "Then add salt to the water.",
+      "end": 69000,
+      "index": 10,
+      "start": 66000
+    },
+    "11": {
+      "content": "And stir until it dissolves.",
+      "end": 71960,
+      "index": 11,
+      "start": 69000
+    },
+    "14": {
+      "content": "When the salt has dissolved,",
+      "end": 131000,
+      "index": 14,
+      "start": 128000
+    },
+    "15": {
+      "content": "take the saline solution and heat it on a stove.",
+      "end": 135000,
+      "index": 15,
+      "start": 131000
+    },
+    "16": {
+      "content": "to evaporate the water at 100 degrees Celsius",
+      "end": 139000,
+      "index": 16,
+      "start": 135000
+    },
+    "17": {
+      "content": "until crystals of salt form.",
+      "end": 141000,
+      "index": 17,
+      "start": 139000
+    },
+    "18": {
+      "content": "Observe the changes that occur.",
+      "end": 145000,
+      "index": 18,
+      "start": 141000
+    },
+    "20": {
+      "content": "Equipment used in the experiment",
+      "end": 163000,
+      "index": 20,
+      "start": 161000
+    },
+    "21": {
+      "content": "iodine crystals",
+      "end": 165000,
+      "index": 21,
+      "start": 163000
+    },
+    "22": {
+      "content": "beaker",
+      "end": 166000,
+      "index": 22,
+      "start": 165000
+    },
+    "23": {
+      "content": "a bottle shaped like a chrysanthemum that holds ice",
+      "end": 168000,
+      "index": 23,
+      "start": 166000
+    },
+    "24": {
+      "content": "spoon for sampling",
+      "end": 170000,
+      "index": 24,
+      "start": 168000
+    },
+    "25": {
+      "content": "and a heating stove",
+      "end": 171790,
+      "index": 25,
+      "start": 170000
+    },
+    "26": {
+      "content": "Method of experiment - first step",
+      "end": 176000,
+      "index": 26,
+      "start": 173000
+    },
+    "28": {
+      "content": "Take about 2 teaspoons of iodine crystals and put them in a beaker.",
+      "end": 180000,
+      "index": 28,
+      "start": 176000
+    },
+    "29": {
+      "content": "Place the beaker on the heating stove",
+      "end": 195000,
+      "index": 29,
+      "start": 192000
+    },
+    "30": {
+      "content": "and gradually heat it to 100 degrees Celsius until the iodine crystals melt.",
+      "end": 200000,
+      "index": 30,
+      "start": 195000
+    },
+    "31": {
+      "content": "Then place a bottle shaped like a chrysanthemum that holds ice on top of the beaker's mouth.",
+      "end": 208500,
+      "index": 31,
+      "start": 202000
+    },
+    "33": {
+      "content": "Observe the changes in iodine that occur.",
+      "end": 213000,
+      "index": 33,
+      "start": 209480
+    },
+    "35": {
+      "content": "Equipment and chemicals",
+      "end": 224000,
+      "index": 35,
+      "start": 221450
+    },
+    "36": {
+      "content": "baking soda, acetic acid, chrysanthemum-shaped bottle, measuring cylinder",
+      "end": 230000,
+      "index": 36,
+      "start": 224000
+    },
+    "39": {
+      "content": "glass funnel, sampling spoon, and a balloon",
+      "end": 238000,
+      "index": 39,
+      "start": 230000
+    },
+    "43": {
+      "content": "Measure 75ml of acetic acid into the measuring cylinder.",
+      "end": 247000,
+      "index": 43,
+      "start": 242000
+    },
+    "44": {
+      "content": "Pour it into the chrysanthemum bottle.",
+      "end": 276000,
+      "index": 44,
+      "start": 273000
+    },
+    "45": {
+      "content": "Add about 3 teaspoons of baking soda into a balloon.",
+      "end": 282000,
+      "index": 45,
+      "start": 277000
+    },
+    "52": {
+      "content": "Wrap the balloon around the mouth of the chrysanthemum bottle.",
+      "end": 344500,
+      "index": 52,
+      "start": 338000
+    },
+    "53": {
+      "content": "Lift the balloon so that it bursts and the foam falls into the bottle.",
+      "end": 350500,
+      "index": 53,
+      "start": 345200
+    },
+    "54": {
+      "content": "Observe the changes that occur.",
+      "end": 354880,
+      "index": 54,
+      "start": 352160
+    },
+    "55": {
+      "content": "Experiment of extinguishing a candle using carbon dioxide gas.",
+      "end": 371180,
+      "index": 55,
+      "start": 354880
+    },
+    "57": {
+      "content": "Equipment and chemicals",
+      "end": 377740,
+      "index": 57,
+      "start": 375560
+    },
+    "58": {
+      "content": "baking soda, acetic acid, measuring cylinder, beaker, candle, match, sampling spoon.",
+      "end": 387000,
+      "index": 58,
+      "start": 378000
+    },
+    "65": {
+      "content": "Light the match to ignite the candle.",
+      "end": 396200,
+      "index": 65,
+      "start": 392700
+    },
+    "66": {
+      "content": "Measure 100ml of acetic acid into a beaker.",
+      "end": 401420,
+      "index": 66,
+      "start": 396200
+    },
+    "77": {
+      "content": "Add about 4-5 teaspoons of baking soda to the beaker.",
+      "end": 450000,
+      "index": 77,
+      "start": 445000
+    },
+    "78": {
+      "content": "Seal the beaker with a culture dish lid.",
+      "end": 454000,
+      "index": 78,
+      "start": 450000
+    },
+    "79": {
+      "content": "Then slowly lift the lid and release the gas inside the beaker to extinguish the flame.",
       "end": 470000,
       "index": 79,
       "start": 460000

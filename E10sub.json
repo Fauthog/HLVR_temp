@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e2a\u0e1a\u0e39\u0e48\u0e08\u0e32\u0e01\u0e2a\u0e32\u0e23\u0e2a\u0e01\u0e31\u0e14\u0e40\u0e1b\u0e25\u0e37\u0e2d\u0e01\u0e21\u0e31\u0e07\u0e04\u0e38\u0e14",
       "end": 3300,
@@ -266,6 +266,278 @@
     },
     "45": {
       "content": "\u0e41\u0e25\u0e30\u0e04\u0e33\u0e19\u0e27\u0e13\u0e2b\u0e32\u0e04\u0e48\u0e32\u0e2a\u0e36\u0e01\u0e01\u0e23\u0e48\u0e2d\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e1a\u0e39\u0e48\u0e15\u0e32\u0e21\u0e2a\u0e39\u0e15\u0e23",
+      "end": 915360,
+      "index": 45,
+      "start": 912480
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Saponification experiment using mangosteen peel extract",
+      "end": 3300,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Experimental procedure",
+      "end": 5100,
+      "index": 2,
+      "start": 3300
+    },
+    "3": {
+      "content": "We take 10g of the dried mangosteen-peel powder and suspend it in a small amount of water.",
+      "end": 9060,
+      "index": 3,
+      "start": 5100
+    },
+    "4": {
+      "content": "The mixture is poured into a conical flask.",
+      "end": 11540,
+      "index": 4,
+      "start": 9060
+    },
+    "5": {
+      "content": "Measure 20ml of distilled water and pour it into the same conical flask.",
+      "end": 58060,
+      "index": 5,
+      "start": 52000
+    },
+    "6": {
+      "content": "Seal the flask with foil and shake gently.",
+      "end": 63980,
+      "index": 6,
+      "start": 59320
+    },
+    "7": {
+      "content": "Then let it stand for 7 days.",
+      "end": 66440,
+      "index": 7,
+      "start": 63980
+    },
+    "8": {
+      "content": "Filter the extract and transfer the filtrate into a beaker.",
+      "end": 182560,
+      "index": 8,
+      "start": 164000
+    },
+    "9": {
+      "content": "Heat the mangosteen peel extract to a temperature of 65-70 degrees Celsius.",
+      "end": 218620,
+      "index": 9,
+      "start": 211000
+    },
+    "10": {
+      "content": "This evaporates the ethanol present in the solution.",
+      "end": 221740,
+      "index": 10,
+      "start": 218620
+    },
+    "11": {
+      "content": "The resulting substance is viscous.",
+      "end": 225000,
+      "index": 11,
+      "start": 221740
+    },
+    "12": {
+      "content": "Once all the ethanol has evaporated, transfer the residue into a storage bottle.",
+      "end": 292640,
+      "index": 12,
+      "start": 283980
+    },
+    "13": {
+      "content": "Next comes the soap-making stage.",
+      "end": 317980,
+      "index": 13,
+      "start": 313980
+    },
+    "14": {
+      "content": "First, heat the water that is in the pot.",
+      "end": 321980,
+      "index": 14,
+      "start": 317980
+    },
+    "15": {
+      "content": "Then add the glycerol to a beaker.",
+      "end": 326440,
+      "index": 15,
+      "start": 321980
+    },
+    "16": {
+      "content": "Heat the glycerol in the beaker until it melts completely.",
+      "end": 378980,
+      "index": 16,
+      "start": 373980
+    },
+    "17": {
+      "content": "When the glycerol has fully melted,",
+      "end": 397980,
+      "index": 17,
+      "start": 395980
+    },
+    "18": {
+      "content": "add 4ml of the mangosteen peel extract and stir until a homogeneous mixture is obtained.",
+      "end": 401980,
+      "index": 18,
+      "start": 397980
+    },
+    "19": {
+      "content": "Stir until uniformity is achieved.",
+      "end": 403960,
+      "index": 19,
+      "start": 401980
+    },
+    "20": {
+      "content": "Then add 2ml of honey.",
+      "end": 476980,
+      "index": 20,
+      "start": 472980
+    },
+    "21": {
+      "content": "Continue stirring until a homogeneous consistency is reached.",
+      "end": 478980,
+      "index": 21,
+      "start": 476980
+    },
+    "22": {
+      "content": "Next, lift the mixture from the heat source and add fragrance as desired.",
+      "end": 569100,
+      "index": 22,
+      "start": 562980
+    },
+    "23": {
+      "content": "Pour the finished soap into molds and let it set.",
+      "end": 621980,
+      "index": 23,
+      "start": 615980
+    },
+    "24": {
+      "content": "When the soap has fully hardened, remove it from the mold.",
+      "end": 645980,
+      "index": 24,
+      "start": 640980
+    },
+    "25": {
+      "content": "Now we test the pH (acid-base) properties of the soap.",
+      "end": 662980,
+      "index": 25,
+      "start": 657980
+    },
+    "26": {
+      "content": "Experimental procedure",
+      "end": 664980,
+      "index": 26,
+      "start": 662980
+    },
+    "27": {
+      "content": "Place 1g of soap in a beaker.",
+      "end": 666980,
+      "index": 27,
+      "start": 664980
+    },
+    "28": {
+      "content": "Add 100ml of distilled water and stir well.",
+      "end": 677110,
+      "index": 28,
+      "start": 666980
+    },
+    "29": {
+      "content": "Use litmus paper to measure the pH of the solution.",
+      "end": 703110,
+      "index": 29,
+      "start": 695630
+    },
+    "30": {
+      "content": "Next we test bubble durability (foam stability).",
+      "end": 736780,
+      "index": 30,
+      "start": 732880
+    },
+    "31": {
+      "content": "Experimental procedure: put 1g of soap into a graduated cylinder.",
+      "end": 741340,
+      "index": 31,
+      "start": 736780
+    },
+    "32": {
+      "content": "Add 20ml of distilled water.",
+      "end": 745460,
+      "index": 32,
+      "start": 741340
+    },
+    "33": {
+      "content": "Seal the cylinder with parafilm.",
+      "end": 777880,
+      "index": 33,
+      "start": 774880
+    },
+    "34": {
+      "content": "Shake the sealed cylinder 40 times.",
+      "end": 801100,
+      "index": 34,
+      "start": 795880
+    },
+    "35": {
+      "content": "Let it stand for 5 minutes.",
+      "end": 803480,
+      "index": 35,
+      "start": 801100
+    },
+    "36": {
+      "content": "Record the number of bubbles to calculate foam stability.",
+      "end": 810060,
+      "index": 36,
+      "start": 805480
+    },
+    "37": {
+      "content": "Next we test soap corrosion rate.",
+      "end": 841260,
+      "index": 37,
+      "start": 836080
+    },
+    "38": {
+      "content": "Experimental procedure",
+      "end": 843080,
+      "index": 38,
+      "start": 842260
+    },
+    "39": {
+      "content": "Cut the soap into a square block and weigh 10g of liquid water.",
+      "end": 846460,
+      "index": 39,
+      "start": 843080
+    },
+    "40": {
+      "content": "Immerse the soap in 40 degree Celsius distilled water for 1 minute.",
+      "end": 853500,
+      "index": 40,
+      "start": 846460
+    },
+    "41": {
+      "content": "After the time is up, rub the soap on a palm about 40 times.",
+      "end": 871040,
+      "index": 41,
+      "start": 865560
+    },
+    "42": {
+      "content": "Then rinse the bubbles with clean water.",
+      "end": 873580,
+      "index": 42,
+      "start": 871040
+    },
+    "43": {
+      "content": "When the rinsed soap is clear, use paper towels to absorb all remaining liquid.",
+      "end": 908480,
+      "index": 43,
+      "start": 903720
+    },
+    "44": {
+      "content": "Place the dried soap back into a container of removed liquid.",
+      "end": 912480,
+      "index": 44,
+      "start": 909720
+    },
+    "45": {
+      "content": "Calculate the corrosion value using the appropriate formula.",
       "end": 915360,
       "index": 45,
       "start": 912480

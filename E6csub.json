@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e2b\u0e32\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e2a\u0e1a\u0e39\u0e48\u0e42\u0e14\u0e22\u0e27\u0e34\u0e18\u0e35\u0e01\u0e32\u0e23\u0e44\u0e17\u0e40\u0e17\u0e23\u0e15",
       "end": 4380,
@@ -80,6 +80,92 @@
     },
     "14": {
       "content": "\u0e2b\u0e32\u0e23\u0e14\u0e49\u0e27\u0e22\u0e19\u0e49\u0e33\u0e2b\u0e19\u0e31\u0e01\u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e1a\u0e42\u0e2d\u0e14\u0e35\u0e40\u0e0b\u0e25\u0e25\u0e4c\u0e17\u0e35\u0e48\u0e19\u0e33\u0e21\u0e32\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c",
+      "end": 221040,
+      "index": 14,
+      "start": 215000
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Analysis of soap residue by titration method",
+      "end": 4380,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "The experimental procedure involves adding 40g of biodiesel to a pear-shaped bottle",
+      "end": 10620,
+      "index": 2,
+      "start": 4380
+    },
+    "3": {
+      "content": "Measure 98ml of acetone and 2ml of distilled water",
+      "end": 79000,
+      "index": 3,
+      "start": 70000
+    },
+    "4": {
+      "content": "Pour the acetone into the pear-shaped bottle that contains the biodiesel",
+      "end": 121000,
+      "index": 4,
+      "start": 115040
+    },
+    "5": {
+      "content": "Add 1mL of bromophenol blue indicator",
+      "end": 128000,
+      "index": 5,
+      "start": 121000
+    },
+    "6": {
+      "content": "Titrate with 0.1M hydrochloric acid",
+      "end": 168000,
+      "index": 6,
+      "start": 160000
+    },
+    "7": {
+      "content": "During the titration, when the solution in the pear-shaped bottle changes from pink to yellow, that is taken as the endpoint of the titration",
+      "end": 176000,
+      "index": 7,
+      "start": 169000
+    },
+    "8": {
+      "content": "And when the solution turns blue, stop the titration",
+      "end": 180000,
+      "index": 8,
+      "start": 176000
+    },
+    "9": {
+      "content": "Record the volume of hydrochloric acid used",
+      "end": 185000,
+      "index": 9,
+      "start": 180000
+    },
+    "10": {
+      "content": "The value obtained from the titration is then used to calculate the amount of soap residue remaining in the biodiesel",
+      "end": 201000,
+      "index": 10,
+      "start": 192000
+    },
+    "11": {
+      "content": "From the equation for the residual soap in the biodiesel",
+      "end": 204000,
+      "index": 11,
+      "start": 202000
+    },
+    "12": {
+      "content": "It equals the amount of hydrochloric acid used multiplied by the concentration of the acid",
+      "end": 212000,
+      "index": 12,
+      "start": 204000
+    },
+    "13": {
+      "content": "Multiplied by the molar mass of soap and then multiplied by 1000",
+      "end": 215000,
+      "index": 13,
+      "start": 212000
+    },
+    "14": {
+      "content": "Divided by the sample weight (e.g., the amount of biodiesel analyzed)",
       "end": 221040,
       "index": 14,
       "start": 215000

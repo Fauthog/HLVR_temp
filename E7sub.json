@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e44\u0e1a\u0e42\u0e2d\u0e40\u0e2d\u0e17\u0e32\u0e19\u0e2d\u0e25",
       "end": 2000,
@@ -110,6 +110,122 @@
     },
     "19": {
       "content": "\u0e17\u0e33\u0e01\u0e32\u0e23\u0e40\u0e01\u0e47\u0e1a\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e17\u0e38\u0e01 \u0e46 6 \u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07",
+      "end": 478200,
+      "index": 19,
+      "start": 472800
+    }
+  },
+  "en": {
+    "1": {
+      "content": "bioethanol experiment",
+      "end": 2000,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Experimental procedure - first step: weigh 30g of pineapple flesh",
+      "end": 6940,
+      "index": 2,
+      "start": 2000
+    },
+    "3": {
+      "content": "Then place the pineapple flesh into a beaker.",
+      "end": 35000,
+      "index": 3,
+      "start": 31000
+    },
+    "4": {
+      "content": "Add 100ml of water measured with a burette.",
+      "end": 51940,
+      "index": 4,
+      "start": 45940
+    },
+    "5": {
+      "content": "Transfer the measured water to the beaker containing the pineapple flesh.",
+      "end": 71380,
+      "index": 5,
+      "start": 66660
+    },
+    "6": {
+      "content": "Then stir gently.",
+      "end": 73940,
+      "index": 6,
+      "start": 71380
+    },
+    "7": {
+      "content": "Measure the initial Brix value before fermentation using a refractometer.",
+      "end": 96980,
+      "index": 7,
+      "start": 89980
+    },
+    "8": {
+      "content": "Adjust the Brix to about 20% by adding sugar; approximately 25g of granulated sugar was used.",
+      "end": 126280,
+      "index": 8,
+      "start": 118100
+    },
+    "9": {
+      "content": "Add the added sugar to a glass bottle to adjust the Brix.",
+      "end": 183840,
+      "index": 9,
+      "start": 177980
+    },
+    "10": {
+      "content": "Stir with a glass rod until the sugar is completely dissolved.",
+      "end": 224900,
+      "index": 10,
+      "start": 219980
+    },
+    "11": {
+      "content": "After dissolution, measure the Brix again.",
+      "end": 250200,
+      "index": 11,
+      "start": 244860
+    },
+    "12": {
+      "content": "Transfer the mixture in the bottle to a heat source for sterilization.",
+      "end": 282180,
+      "index": 12,
+      "start": 275200
+    },
+    "13": {
+      "content": "Heat it to about 70 degree Celsius.",
+      "end": 286510,
+      "index": 13,
+      "start": 282180
+    },
+    "14": {
+      "content": "When the temperature reaches 70 degrees Celsius, maintain it for 5-10 minutes.",
+      "end": 352420,
+      "index": 14,
+      "start": 346020
+    },
+    "15": {
+      "content": "Then add 1.5g of starch-derived yeast inoculum (amylolytic).",
+      "end": 367660,
+      "index": 15,
+      "start": 358420
+    },
+    "16": {
+      "content": "Put the inoculated solution into a glass bottle.",
+      "end": 427200,
+      "index": 16,
+      "start": 423200
+    },
+    "17": {
+      "content": "Shake the bottle gently",
+      "end": 430200,
+      "index": 17,
+      "start": 427200
+    },
+    "18": {
+      "content": "Seal the bottle with a black rubber stopper",
+      "end": 435200,
+      "index": 18,
+      "start": 431200
+    },
+    "19": {
+      "content": "Record the experimental results every six hours.",
       "end": 478200,
       "index": 19,
       "start": 472800

@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07 \u0e01\u0e32\u0e23\u0e2b\u0e32\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e19\u0e32\u0e41\u0e19\u0e48\u0e19\u0e02\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e2b\u0e25\u0e27\u0e41\u0e25\u0e30\u0e27\u0e31\u0e15\u0e16\u0e38",
       "end": 5440,
@@ -230,6 +230,242 @@
     },
     "39": {
       "content": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e19\u0e32\u0e41\u0e19\u0e48\u0e19\u0e40\u0e17\u0e48\u0e32\u0e01\u0e31\u0e1a\u0e21\u0e27\u0e25\u0e2b\u0e32\u0e23\u0e14\u0e49\u0e27\u0e22\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e15\u0e23\n",
+      "end": 990880,
+      "index": 39,
+      "start": 987880
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Experiment: Determining the Density of Liquids and Objects",
+      "end": 5440,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Part 1 - Comparing the densities of liquids and objects",
+      "end": 9980,
+      "index": 2,
+      "start": 5440
+    },
+    "3": {
+      "content": "Experimental procedure: Pour each type of liquid into a glass jar",
+      "end": 15960,
+      "index": 3,
+      "start": 9980
+    },
+    "4": {
+      "content": "Liquid type 1 is honey. We will pour the liquid slowly into the jar",
+      "end": 23600,
+      "index": 4,
+      "start": 15960
+    },
+    "5": {
+      "content": "Liquid type 2 is milk",
+      "end": 55060,
+      "index": 5,
+      "start": 52260
+    },
+    "6": {
+      "content": "Liquid type 3 is condensed milk",
+      "end": 151340,
+      "index": 6,
+      "start": 147880
+    },
+    "7": {
+      "content": "Liquid type 4 is dish-washing liquid",
+      "end": 245040,
+      "index": 7,
+      "start": 239980
+    },
+    "8": {
+      "content": "Liquid type 5 is water",
+      "end": 330980,
+      "index": 8,
+      "start": 326260
+    },
+    "9": {
+      "content": "Liquid type 6 is vegetable oil",
+      "end": 398760,
+      "index": 9,
+      "start": 394980
+    },
+    "10": {
+      "content": "Liquid type 7 is alcohol",
+      "end": 475240,
+      "index": 10,
+      "start": 470980
+    },
+    "11": {
+      "content": "Liquid type 8 is motor oil",
+      "end": 628600,
+      "index": 11,
+      "start": 624980
+    },
+    "12": {
+      "content": "Next, place the following objects into the glass jar",
+      "end": 726680,
+      "index": 12,
+      "start": 721980
+    },
+    "13": {
+      "content": "1. Corn kernels",
+      "end": 728680,
+      "index": 13,
+      "start": 726680
+    },
+    "14": {
+      "content": "2. Dried cherries",
+      "end": 735860,
+      "index": 14,
+      "start": 732680
+    },
+    "15": {
+      "content": "3. Spool",
+      "end": 743060,
+      "index": 15,
+      "start": 740860
+    },
+    "16": {
+      "content": "4. Nut",
+      "end": 751420,
+      "index": 16,
+      "start": 748980
+    },
+    "17": {
+      "content": "5. Metal button",
+      "end": 759440,
+      "index": 17,
+      "start": 756420
+    },
+    "18": {
+      "content": "6. Ping-pong ball",
+      "end": 767800,
+      "index": 18,
+      "start": 766440
+    },
+    "19": {
+      "content": "7. Water bottle cap",
+      "end": 775960,
+      "index": 19,
+      "start": 773800
+    },
+    "20": {
+      "content": "Part 2 - Determining the density of liquids",
+      "end": 793340,
+      "index": 20,
+      "start": 788420
+    },
+    "21": {
+      "content": "Experimental procedure",
+      "end": 795480,
+      "index": 21,
+      "start": 793740
+    },
+    "22": {
+      "content": "Tare a clean beaker to zero and set it to zero",
+      "end": 798620,
+      "index": 22,
+      "start": 795480
+    },
+    "23": {
+      "content": "Then pour honey into the beaker",
+      "end": 803120,
+      "index": 23,
+      "start": 800980
+    },
+    "24": {
+      "content": "until the mass reads 60g and record the weight",
+      "end": 808680,
+      "index": 24,
+      "start": 803120
+    },
+    "25": {
+      "content": "Tare a clean beaker to zero again",
+      "end": 847240,
+      "index": 25,
+      "start": 842120
+    },
+    "26": {
+      "content": "Add milk until the mass is 60g",
+      "end": 852280,
+      "index": 26,
+      "start": 848240
+    },
+    "27": {
+      "content": "Then pour samples of condensed milk, dish-washing liquid, water, vegetable oil, alcohol and motor oil into the beaker until each reaches 60g",
+      "end": 862480,
+      "index": 27,
+      "start": 853280
+    },
+    "28": {
+      "content": "Continue in sequence until all are measured",
+      "end": 864160,
+      "index": 28,
+      "start": 861940
+    },
+    "29": {
+      "content": "Next pour the remaining motor-oil sample into a measuring cylinder",
+      "end": 908840,
+      "index": 29,
+      "start": 902240
+    },
+    "30": {
+      "content": "to measure its volume",
+      "end": 910940,
+      "index": 30,
+      "start": 908840
+    },
+    "31": {
+      "content": "and record the value",
+      "end": 913140,
+      "index": 31,
+      "start": 910940
+    },
+    "32": {
+      "content": "Pour the remaining alcohol sample into a measuring cylinder",
+      "end": 942160,
+      "index": 32,
+      "start": 937240
+    },
+    "33": {
+      "content": "to measure its volume",
+      "end": 944500,
+      "index": 33,
+      "start": 942160
+    },
+    "34": {
+      "content": "and record the value",
+      "end": 946540,
+      "index": 34,
+      "start": 944500
+    },
+    "35": {
+      "content": "Then pour the remaining sample into a measuring cylinder",
+      "end": 950200,
+      "index": 35,
+      "start": 946540
+    },
+    "36": {
+      "content": "to measure its volume",
+      "end": 951940,
+      "index": 36,
+      "start": 950200
+    },
+    "37": {
+      "content": "and record all values",
+      "end": 955440,
+      "index": 37,
+      "start": 951940
+    },
+    "38": {
+      "content": "Use the recorded data to calculate the density of each liquid using the following formula",
+      "end": 987880,
+      "index": 38,
+      "start": 981230
+    },
+    "39": {
+      "content": "Density equals mass divided by volume",
       "end": 990880,
       "index": 39,
       "start": 987880

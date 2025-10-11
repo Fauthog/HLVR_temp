@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e2a\u0e01\u0e31\u0e14\u0e2a\u0e35\u0e08\u0e32\u0e01\u0e1e\u0e37\u0e0a\u0e42\u0e14\u0e22\u0e43\u0e0a\u0e49\u0e15\u0e31\u0e27\u0e17\u0e33\u0e25\u0e30\u0e25\u0e32\u0e22",
       "end": 4000,
@@ -140,6 +140,152 @@
     },
     "24": {
       "content": "\u0e41\u0e25\u0e30\u0e43\u0e0a\u0e49\u0e2b\u0e25\u0e2d\u0e14\u0e2b\u0e22\u0e14\u0e14\u0e39\u0e14\u0e2a\u0e32\u0e23\u0e25\u0e30\u0e25\u0e32\u0e22\u0e25\u0e07\u0e43\u0e19\u0e2b\u0e25\u0e2d\u0e14\u0e17\u0e14\u0e25\u0e2d\u0e07 \u0e08\u0e32\u0e01\u0e19\u0e31\u0e49\u0e19\u0e2a\u0e31\u0e07\u0e40\u0e01\u0e15\u0e2a\u0e35\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e02\u0e36\u0e49\u0e19\u0e41\u0e25\u0e30\u0e17\u0e33\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e1c\u0e25",
+      "end": 467180,
+      "index": 24,
+      "start": 459380
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Experiment on extracting color from plants using solvents",
+      "end": 4000,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Method: Take a sample of nasturtium flower and place it in a ceramic cup",
+      "end": 24800,
+      "index": 2,
+      "start": 19360
+    },
+    "3": {
+      "content": "Then drop each type of solvent into the ceramic cup",
+      "end": 59420,
+      "index": 3,
+      "start": 56580
+    },
+    "4": {
+      "content": "About two to three milliliters; the first solvent is water",
+      "end": 67000,
+      "index": 4,
+      "start": 59980
+    },
+    "5": {
+      "content": "The second is hot water, the third ethanol",
+      "end": 72020,
+      "index": 5,
+      "start": 67580
+    },
+    "6": {
+      "content": "The fourth is acetone, and the fifth hexane",
+      "end": 79200,
+      "index": 6,
+      "start": 73020
+    },
+    "7": {
+      "content": "(The first solvent was hot water, the fourth acetone, and the fifth heptane)",
+      "end": 99980,
+      "index": 7,
+      "start": 89980
+    },
+    "8": {
+      "content": "(Again, the first solvent was hot water, the fourth acetone, and the fifth heptane)",
+      "end": 123980,
+      "index": 8,
+      "start": 119980
+    },
+    "9": {
+      "content": "After all the droplets have finished being added",
+      "end": 182360,
+      "index": 9,
+      "start": 179980
+    },
+    "10": {
+      "content": "Grind the plant sample with a pestle",
+      "end": 185320,
+      "index": 10,
+      "start": 182360
+    },
+    "11": {
+      "content": "Then use a dropper to absorb the solution into a test tube",
+      "end": 298600,
+      "index": 11,
+      "start": 292980
+    },
+    "12": {
+      "content": "Observe the color change and record the results",
+      "end": 343660,
+      "index": 12,
+      "start": 339500
+    },
+    "13": {
+      "content": "Take a sample of blue bellflower and place it in a ceramic cup",
+      "end": 348460,
+      "index": 13,
+      "start": 344840
+    },
+    "14": {
+      "content": "Drop each type of solvent into the cup",
+      "end": 353000,
+      "index": 14,
+      "start": 348460
+    },
+    "15": {
+      "content": "Then grind the plant sample with a strong grinding set",
+      "end": 356500,
+      "index": 15,
+      "start": 353000
+    },
+    "16": {
+      "content": "Use a dropper to absorb the solution into a test tube",
+      "end": 365980,
+      "index": 16,
+      "start": 359980
+    },
+    "17": {
+      "content": "Observe the color change and record the results",
+      "end": 370900,
+      "index": 17,
+      "start": 365980
+    },
+    "18": {
+      "content": "Take a sample of cabbage and place it in a ceramic cup",
+      "end": 426840,
+      "index": 18,
+      "start": 422860
+    },
+    "19": {
+      "content": "Drop each type of solvent into the cup",
+      "end": 430320,
+      "index": 19,
+      "start": 426840
+    },
+    "20": {
+      "content": "Grind the plant sample with a strong grinding set",
+      "end": 433480,
+      "index": 20,
+      "start": 430480
+    },
+    "21": {
+      "content": "Use a dropper to absorb the solution into a test tube",
+      "end": 438760,
+      "index": 21,
+      "start": 433480
+    },
+    "22": {
+      "content": "Observe the color change",
+      "end": 441580,
+      "index": 22,
+      "start": 438760
+    },
+    "23": {
+      "content": "Take a sample of sunflower and place it in a ceramic cup; drop the solvent; then grind with a grinding set",
+      "end": 458380,
+      "index": 23,
+      "start": 450980
+    },
+    "24": {
+      "content": "Use a dropper to absorb the solution into a test tube; observe the color change and record the results",
       "end": 467180,
       "index": 24,
       "start": 459380

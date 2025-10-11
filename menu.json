@@ -1,0 +1,52 @@
+{
+    "experiments": {
+        "th": {
+            "startbtn": "เริ่มการทดลอง",
+            "E1": "การหาจุดเดือดของสารบริสุทธิ์และสารผสม",
+            "E2": "การหาความหนาแน่น",
+            "E2b": "ยูเรก้า",
+            "E3": "การระเหยแห้งและการตกผลึก",
+            "E4": "การสกัดสีจากพืชโดยตัวทำละลาย",
+            "E5": "การเปลี่ยนแปลงของสาร",
+            "E5b": "การเปลี่ยนแปลงของสาร",
+            "E6a": "การผลิตไบโอดีเซล: การทำปฏิกิริยา",
+            "E6b": "การผลิตไบโอดีเซล: หลังทำปฏิกิริยา",
+            "E6c": "การผลิตไบโอดีเซล:วิเคราะห์หาปริมาณกรดไขมันอิสระในน้ำมัน (FFA)",
+            "E7": "การผลิตไบโอเอทานอล",
+            "E8": "การทำโยเกิร์ต",
+            "E9": "การสกัดน้ำมันหอมระเหย",
+            "E10": "สบู่จากสารสกัดเปลือกมังคุด",
+            "E10b": "สบู่จากสารสกัดเปลือกมังคุด"
+        },
+        "en": {
+            "startbtn": "start",
+            "E1": "boiling point",
+            "E2": "density",
+            "E2b": "eureka",
+            "E3": "evaporation and crystallization",
+            "E4": "dye extraction",
+            "E5": "changes in matter",
+            "E5b": "changes in matter 2",
+            "E6a": "biodiesel production: reaction",
+            "E6b": "biodiesel production: post-reaction",
+            "E6c": "biodiesel production: free fatty acids (FFA)",
+            "E7": "bioethanol production",
+            "E8": "making yoghurt",
+            "E9": "essential oil extraction",
+            "E10": "soap from mangosteen peel extract",
+            "E10b": "soap quality control"
+        }
+    },
+    "settings": {
+        "th": {
+            "update": "อัปเดตแอป",
+            "dowwnload_videos": "ดาวน์โหลดวิดีโอ",
+            "download_subtitles": "ดาวน์โหลดคำบรรยาย"
+        },
+        "en": {
+            "update": "update",
+            "dowwnload_videos": "download videos",
+            "download_subtitles": "download subtitles"
+        }
+    }
+}

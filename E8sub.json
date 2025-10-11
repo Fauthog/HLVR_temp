@@ -1,5 +1,5 @@
 {
-  "TH": {
+  "th": {
     "1": {
       "content": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e33\u0e42\u0e22\u0e40\u0e01\u0e34\u0e23\u0e4c\u0e15",
       "end": 2200,
@@ -68,6 +68,80 @@
     },
     "12": {
       "content": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e1a\u0e48\u0e21\u0e17\u0e34\u0e49\u0e07\u0e44\u0e27\u0e49\u0e04\u0e23\u0e1a 1 \u0e04\u0e37\u0e19\u0e43\u0e2b\u0e49\u0e17\u0e33\u0e01\u0e32\u0e23\u0e27\u0e31\u0e14\u0e04\u0e48\u0e32\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e01\u0e23\u0e14-\u0e40\u0e1a\u0e2a\u0e2b\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e2b\u0e21\u0e31\u0e01\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "end": 200720,
+      "index": 12,
+      "start": 194420
+    }
+  },
+  "en": {
+    "1": {
+      "content": "Experiment on making yogurt.",
+      "end": 2200,
+      "index": 1,
+      "start": 0
+    },
+    "2": {
+      "content": "Heat the UHT milk in a pot.",
+      "end": 6520,
+      "index": 2,
+      "start": 2200
+    },
+    "3": {
+      "content": "hen simmer the milk over low heat until it is warm, about 5 minutes.",
+      "end": 12520,
+      "index": 3,
+      "start": 6520
+    },
+    "4": {
+      "content": "Add 25g of sugar and stir until it has completely dissolved.",
+      "end": 41000,
+      "index": 4,
+      "start": 33000
+    },
+    "5": {
+      "content": "When the sugar is fully dissolved, remove the pot from the heat.",
+      "end": 49000,
+      "index": 5,
+      "start": 44000
+    },
+    "6": {
+      "content": "Place the pot on a cool surface and let it sit for about 10-15 minutes.",
+      "end": 53000,
+      "index": 6,
+      "start": 49000
+    },
+    "7": {
+      "content": "Then scoop 2-3 tablespoons of yogurt into the pot.",
+      "end": 59800,
+      "index": 7,
+      "start": 55000
+    },
+    "8": {
+      "content": "Stir until everything is well mixed.",
+      "end": 62360,
+      "index": 8,
+      "start": 59800
+    },
+    "9": {
+      "content": "Once it's evenly mixed, pour the mixture into a plastic container that can be sealed.",
+      "end": 118120,
+      "index": 9,
+      "start": 113800
+    },
+    "10": {
+      "content": "Seal the container tightly.",
+      "end": 120080,
+      "index": 10,
+      "start": 118120
+    },
+    "11": {
+      "content": "Let the sealed container sit at room temperature for one day.",
+      "end": 125000,
+      "index": 11,
+      "start": 121000
+    },
+    "12": {
+      "content": "After 24 hours of incubation, measure the pH (acid-base value) again.",
       "end": 200720,
       "index": 12,
       "start": 194420
